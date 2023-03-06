@@ -51,7 +51,7 @@ font-size: 150%;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 0.875rem;
+  font-size: 1rem;
   letter-spacing: .1em;
 }
 
@@ -86,7 +86,7 @@ font-size: 150%;
 
 .films h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
   letter-spacing: .1em;
   margin-bottom: 1rem;
@@ -97,6 +97,7 @@ font-size: 150%;
   font-family: Helvetica, Arial;
   line-height: 1.2;
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 .films-lista {
@@ -138,6 +139,7 @@ cursor: pointer;
 .faq-lista dt {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
+  font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: .5rem;
   color: #141E61;
@@ -156,6 +158,7 @@ cursor: pointer;
 .faq-lista dd {
   font-family: Helvetica, Arial;
   margin-bottom: .5rem;
+  font-size: 1.2rem;
   margin-left: 30px;
 }
 
